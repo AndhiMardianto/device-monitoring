@@ -1,0 +1,10 @@
+addon_name = "Device Monitoring"
+addon_version = "1.0.0"
+addon_minimumNVDAVersion = "2024.2"
+addon_lastTestedNVDAVersion = "2024.4.1"
+addon_summary = "device monitoring"
+addon_description = """This add-on makes it easier to monitor your device."""
+addon_author = "Andhim anditoinfo@gmail.com"
+addon_url = "https://github.com/AndhiMardianto/device-monitoring"
+addon_docFileName = "readme.html"
+addon_updateChannel = None
