@@ -9,10 +9,10 @@ import buildVars
 # Tentukan lokasi file yang akan dikemas
 AddonFiles = [
     "manifest.ini",
-    "globalPlugins/monitoring/__init__.py",
-        "globalPlugins/monitoring/functions.py",
-        "globalPlugins/monitoring/connected.wav",
-        "globalPlugins/monitoring/disconnected.wav",
+    "globalPlugins/deviceMonitoring/__init__.py",
+        "globalPlugins/deviceMonitoring/functions.py",
+        "globalPlugins/deviceMonitoring/connected.wav",
+        "globalPlugins/deviceMonitoring/disconnected.wav",
 ]
 
 # Nama file hasil build
